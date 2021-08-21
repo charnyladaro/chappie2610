@@ -1,15 +1,14 @@
 ### Hi there, I'm charnyl - aka [chappie][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.charnyladaro.lovestoblog.com)
+[![Website](https://img.shields.io/website?label=MY Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.charnyladaro.lovestoblog.com)
 
 
 ## I'm a Husband, Developer, and Student!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Learn more coding
+- ⚡ Fun fact: I love to sing and play guitar 
 
 ### Connect with me:
 
