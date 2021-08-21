@@ -9,8 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="chappie2610 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="chappie2610 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="chappie2610 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="chappie2610 | Facebook" width="22px" src="https://github.com/chappie2610/chappie2610/blob/master/fb.png" />][Facebook]
 [<img align="left" alt="chappie2610 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -34,11 +33,9 @@
 
 
 [website]: https://www.charnyladaro.lovestoblog.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[facebook]: https://www.facebook.com/charnyladaro/
+[youtube]: https://www.youtube.com/channel/UClGFD_FhNPPYRgl36zn4_rA
+[instagram]: https://instagram.com/chappie2610
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
