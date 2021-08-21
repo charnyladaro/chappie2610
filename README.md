@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="chappie2610 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="chappie2610 | Facebook" width="32px" src="https://github.com/chappie2610/chappie2610/blob/master/fb.png" />][Facebook]
+[<img align="left" alt="chappie2610 | Facebook" width="22px" src="https://github.com/chappie2610/chappie2610/blob/master/images.png" />][Facebook]
 [<img align="left" alt="chappie2610 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
