@@ -3,7 +3,7 @@
 ## I'm a Husband, Developer, and Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn more coding
+- 🥅 2022 Goals: Learn more coding
 - ⚡ Fun fact: I love to sing and play guitar 
 
 ### Connect with me:
