@@ -1,9 +1,9 @@
 ### Hi there, I'm charnyl - aka [chappie][website] 👋
 
-## I'm a Husband, Developer, and Student!!
+## I'm a Husband, Developer, Cybersecurity Engineer and forever a student never stop learning!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more coding
+- 🌱 I’m currently learning CEH🤣
+- 🥅 2024 Goals: Learn more coding and hacking
 - ⚡ Fun fact: I love to sing and play guitar 
 
 ### Connect with me:
