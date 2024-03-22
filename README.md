@@ -1,4 +1,4 @@
-### Hi there, I'm charnyl - aka [chappie][website] 👋
+### Hi there, I'm charnyl 👋
 
 ## I'm a Husband, Developer, Cybersecurity Engineer and forever a student never stop learning!!
 
